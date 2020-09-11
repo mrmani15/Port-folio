@@ -113,8 +113,8 @@ export const data = [
       title: 'FIREBASE'
     },
     ],
-    live: 'https://livebtc2usd.netlify.app/',
-    code: 'github.com/mrmani15'
+    live: 'https://atithi.netlify.app/',
+    code: 'https://github.com/mrmani15/Atithi'
   },
   {
     image: '/img/microfinance.png',
@@ -166,40 +166,40 @@ export const data = [
     name: 'Tell Me',
     desc: 'This is the practice project for learning MongoDB and express.js.',
     icon: [{
-        link: 'https://i.ibb.co/JRb4CPf/html.png',
-        alt: 'HTML',
-        title: 'HTML'
-      },
-      {
-        link: 'https://i.ibb.co/M6MVw9h/css.png',
-        alt: 'CSS',
-        title: 'CSS'
-      },
-      {
-        link: 'https://i.ibb.co/thC2Rsc/bootstrap.png',
-        alt: 'BOOTSTRAP',
-        title: 'BOOTSTRAP'
-      },
-      {
-        link: 'https://i.ibb.co/vLH1F2j/javascript.png',
-        alt: 'JAVASCRIPT',
-        title: 'JAVASCRIPT'
-      },
-      {
-        link: 'img/react.svg',
-        alt: 'REACT',
-        title: 'REACT'
-      },
-      {
-        link: 'img/nodejs.svg',
-        alt: 'NODE',
-        title: 'NODE'
-      },
-      {
-        link: 'img/mongodb.svg',
-        alt: 'MONGO DB',
-        title: 'MONGO DB'
-      }],
+      link: 'https://i.ibb.co/JRb4CPf/html.png',
+      alt: 'HTML',
+      title: 'HTML'
+    },
+    {
+      link: 'https://i.ibb.co/M6MVw9h/css.png',
+      alt: 'CSS',
+      title: 'CSS'
+    },
+    {
+      link: 'https://i.ibb.co/thC2Rsc/bootstrap.png',
+      alt: 'BOOTSTRAP',
+      title: 'BOOTSTRAP'
+    },
+    {
+      link: 'https://i.ibb.co/vLH1F2j/javascript.png',
+      alt: 'JAVASCRIPT',
+      title: 'JAVASCRIPT'
+    },
+    {
+      link: 'img/react.svg',
+      alt: 'REACT',
+      title: 'REACT'
+    },
+    {
+      link: 'img/nodejs.svg',
+      alt: 'NODE',
+      title: 'NODE'
+    },
+    {
+      link: 'img/mongodb.svg',
+      alt: 'MONGO DB',
+      title: 'MONGO DB'
+    }],
     live: 'https://justtellme.herokuapp.com/',
     code: 'github.com/mrmani15'
   },

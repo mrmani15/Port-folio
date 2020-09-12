@@ -201,7 +201,7 @@ export const data = [
       title: 'MONGO DB'
     }],
     live: 'https://justtellme.herokuapp.com/',
-    code: 'github.com/mrmani15'
+    code: 'https://github.com/mrmani15/tell-me'
   },
   {
     image: 'img/game.png',

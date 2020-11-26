@@ -23,29 +23,44 @@ const Navbar = () => {
 			>
 				<ul className='navbar-nav nav nav-bar'>
 					<li className='nav-item ml-3'>
-						<a href='#home' className='nav-link text-info font-weight-bolder'>
+						<a
+							href='#home'
+							className='nav-link text-warning font-weight-bolder'
+						>
 							HOME
 						</a>
 					</li>
 					<li className='nav-item ml-3'>
-						<a href='#aboutme' className='nav-link text-info font-weight-bolder'>
+						<a
+							href='#aboutme'
+							className='nav-link text-warning font-weight-bolder'
+						>
 							ABOUT ME
 						</a>
 					</li>
+					<li className='nav-item ml-3 mr-4'>
+						<a
+							href='#experience'
+							className='nav-link text-warning font-weight-bolder'
+						>
+							EXPERIENCE
+						</a>
+					</li>
 					<li className='nav-item ml-3'>
-						<a href='#techskill' className='nav-link text-info font-weight-bolder'>
+						<a
+							href='#techskill'
+							className='nav-link text-warning font-weight-bolder'
+						>
 							TECH & SKILL
 						</a>
 					</li>
 
 					<li className='nav-item ml-3'>
-						<a href='#project' className='nav-link text-info font-weight-bolder'>
+						<a
+							href='#project'
+							className='nav-link text-warning font-weight-bolder'
+						>
 							PROJECTS
-						</a>
-					</li>
-					<li className='nav-item ml-3 mr-4'>
-						<a href='#internship' className='nav-link text-info font-weight-bolder'>
-							INTERNSHIP
 						</a>
 					</li>
 				</ul>

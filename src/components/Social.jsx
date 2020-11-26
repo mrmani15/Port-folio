@@ -4,14 +4,14 @@ const Social = () => {
 	return (
 		<div>
 			<center>
-				<h4 className='font-weight-bolder text-info'>
+				<h4 className='font-weight-bolder text-warning'>
 					Social Appearances
 				</h4>
 			</center>
 			<div className='col-12 bg-dark mt-4 rounded-pill col-sm-12 row-6'>
 				<ul className='list-unstyled col-md-12'>
 					<li className='media p-4'>
-						<div className='d-flex ml-2 flex-wrap w-100'>
+						<div className='d-flex ml-2 flex-wrap w-100 justify-content-around'>
 							<a
 								href='https://github.com/mrmani15/'
 								target='blank'
@@ -58,30 +58,6 @@ const Social = () => {
 									width='60'
 									className='m-1 ml-4'
 									title='Hackerrank'
-								/>
-							</a>
-							<a
-								href='https://leetcode.com/mrmani/'
-								target='blank'
-							>
-								<img
-									src='img/leetcode.png'
-									alt='Leetcode'
-									width='60'
-									className='m-1 ml-4'
-									title='Leetcode'
-								/>
-							</a>
-							<a
-								href='https://www.codechef.com/users/mrmani'
-								target='blank'
-							>
-								<img
-									src='img/codechef.png'
-									alt='Codechef'
-									width='60'
-									className='m-1 ml-4'
-									title='Codechef'
 								/>
 							</a>
 						</div>

@@ -5,8 +5,8 @@ const Tool = () => {
 		<div className='col-sm-12 md-6 row-6 p-4'>
 			<h2 className='text-center'>TOOL FAMILIARITY</h2>
 			<div className='col-12 bg-dark p-4 mt-4 rounded-pill col-sm-12 row-6'>
-				<ul className='list-unstyled  col-md-12'>
-					<li className='media p-5'>
+				<ul className='list-unstyled col-md-12'>
+					<li className='media p-3'>
 						<div className='d-flex flex-wrap w-100'>
 							<img
 								src='img/npm.svg'

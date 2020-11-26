@@ -14,9 +14,9 @@ function App() {
       <Navbar />
       <Home />
       <AboutMe />
+      <Internship />
       <SkillTech />
       <Projects />
-      <Internship />
     </Fragment>
   );
 }

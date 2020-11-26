@@ -10,7 +10,7 @@ const AboutMe = () => {
 			<center>
 				<h1 className='underline'>About me</h1>
 			</center>
-			<div className='row mt-5'>
+			<div className='row mt-2'>
 				<div className='col-xl-6 col-sm-12'>
 					<MyDetail />
 				</div>

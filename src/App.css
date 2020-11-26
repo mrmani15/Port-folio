@@ -55,7 +55,7 @@
 .intern{
   text-transform: uppercase;  
   text-decoration: underline;
-  padding-bottom: 30px;
+  /* padding-bottom: 30px; */
 }
 #aboutme{
   background-color:#2e2d2c;
@@ -68,7 +68,8 @@
 #project{
   background-color:#2e2d2c;
 }
-#internship{
+#experience{
   background-color: #2e2d2c;
   height: 100%;
+  padding-top: 100px !important;
 }

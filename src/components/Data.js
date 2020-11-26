@@ -1,5 +1,72 @@
 export const data = [
   {
+    image: '/img/dashboards.png',
+    alt: 'RailRecipe Dashboard',
+    name: 'RailRecipe Dashboard',
+    desc: 'This is the Dashboard of RailRecipe Project. I am developing this is node.js.',
+    icon: [
+      {
+        link: 'img/next.png',
+        alt: 'NEXT.JS',
+        title: 'NEXT.JS'
+      },
+      {
+        link: 'img/semantic.png',
+        alt: 'Semantic-ui-react',
+        title: 'Semantic-ui-react'
+      },
+      {
+        link: 'https://i.ibb.co/M6MVw9h/css.png',
+        alt: 'CSS',
+        title: 'CSS'
+      },
+      {
+        link: 'https://i.ibb.co/vLH1F2j/javascript.png',
+        alt: 'JAVASCRIPT',
+        title: 'JAVASCRIPT'
+      },
+      {
+        link: 'img/redux.svg',
+        alt: 'REDUX',
+        title: 'REDUX'
+      },
+    ]
+  },
+  {
+    image: '/img/railrecipe.png',
+    alt: 'Live RailRecipe Project',
+    name: 'RailRecipe',
+    desc: 'This is the Frontend Part of RailRecipe Project. I am Updating and optimizing this codebase.',
+    icon: [
+      {
+        link: 'img/next.png',
+        alt: 'NEXT.JS',
+        title: 'NEXT.JS'
+      },
+      {
+        link: 'img/semantic.png',
+        alt: 'Semantic-ui-react',
+        title: 'Semantic-ui-react'
+      },
+      {
+        link: 'https://i.ibb.co/M6MVw9h/css.png',
+        alt: 'CSS',
+        title: 'CSS'
+      },
+      {
+        link: 'https://i.ibb.co/vLH1F2j/javascript.png',
+        alt: 'JAVASCRIPT',
+        title: 'JAVASCRIPT'
+      },
+      {
+        link: 'img/redux.svg',
+        alt: 'REDUX',
+        title: 'REDUX'
+      },
+    ],
+    live: 'https://railrecipe.com/'
+  },
+  {
     image: '/img/twitterclone.png',
     alt: 'Project twitter clone',
     name: 'Twitter Clone',
@@ -159,6 +226,39 @@ export const data = [
     ],
     live: 'https://mapsmicrofinance.netlify.app/',
     code: 'https://github.com/mrmani15/Task/tree/master/MicroFinanceProject'
+  },
+  {
+    image: 'img/amiureApi.png',
+    alt: 'CRUD post',
+    name: 'CRUD',
+    desc: 'This is a complete CRUD operation in MySql, express.js and React.',
+    icon: [
+      {
+        link: 'https://i.ibb.co/thC2Rsc/bootstrap.png',
+        alt: 'BOOTSTRAP',
+        title: 'BOOTSTRAP'
+      },
+      {
+        link: 'https://i.ibb.co/vLH1F2j/javascript.png',
+        alt: 'JAVASCRIPT',
+        title: 'JAVASCRIPT'
+      },
+      {
+        link: 'img/react.svg',
+        alt: 'REACT',
+        title: 'REACT'
+      },
+      {
+        link: 'img/nodejs.svg',
+        alt: 'NODE',
+        title: 'NODE'
+      },
+      {
+        link: 'img/mysql.png',
+        alt: 'MySql',
+        title: 'MySql'
+      }],
+    code: 'https://github.com/mrmani15/amiureApi'
   },
   {
     image: 'img/tellme.png',

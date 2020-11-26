@@ -1,19 +1,41 @@
 import React from 'react';
-import { BsChevronDoubleUp } from 'react-icons/bs';
 
 const Internship = () => {
 	return (
-		<div className='container-fluid p-5' id='internship'>
+		<div className='container-fluid p-5' id='experience'>
 			<center>
-				<h1 className='intern text-warning'>Internship</h1>
+				<h1 className='intern text-warning pb-5'>EXPERIENCE</h1>
 			</center>
-			<div className='rounded-pill p-5 bg-dark mt-4 text-center'>
+			<div className='rounded-pill p-4 bg-dark mt-4 text-center'>
+				<h2 className='intern text-warning'>Working</h2>
+				<h4>
+					Currently, I am working in{' '}
+					<b>
+						<a
+							className='text-warning'
+							href='https://www.railrecipe.com/'
+						>
+							Amiure International Private Limited
+						</a>
+					</b>{' '}
+					as a full-Stack Web Developer since October 2020. Here I am Responsible for
+					Updating and optimizing Frontend code, recreating dashboard,
+					and shifting complete project on AWS.
+				</h4>
+			</div>
+			<div className='rounded-pill p-4 bg-dark mt-4 text-center'>
+				<h2 className='intern text-warning'>Internship</h2>
 				<h4>
 					I have my One-month intership at quillhash technology. where
 					i work on product{' '}
-					<a href='https://zeptagram.com/' className='text-secondary'>
-						zeptagram.com
-					</a>{' '}
+					<b>
+						<a
+							href='https://zeptagram.com/'
+							className='text-warning'
+						>
+							zeptagram.com
+						</a>{' '}
+					</b>
 					as <b>React Developer</b> role.
 				</h4>
 				<a
@@ -23,9 +45,6 @@ const Internship = () => {
 				>
 					CERTIFICATE
 				</a>
-			</div>
-			<div className='d-flex justify-content-end'>
-				<a href='#home' className='text-white border btn btn-secondary rounded-pill'>Top<BsChevronDoubleUp /></a>
 			</div>
 		</div>
 	);

@@ -5,7 +5,7 @@ const FamiliarTech = () => {
 		<div className='col-sm-12 md-6 row-6 p-4'>
 			<h2 className='text-center'>TECH FAMILIAR WITH</h2>
 			<div className='col-12 bg-dark p-4 mt-4 rounded-pill col-sm-12 row-6'>
-				<ul className='list-unstyled  col-md-12'>
+				<ul className='list-unstyled col-md-12'>
 					<li className='media p-3'>
 						<div className='d-flex flex-wrap w-100'>
 							<img
@@ -34,6 +34,20 @@ const FamiliarTech = () => {
 								className='mx-auto my-2 d-block'
 								alt='React Native'
 								title='React Native'
+								width='90'
+							/>
+							<img
+								src='img/next.png'
+								className='mx-auto my-2 d-block'
+								alt='MySql'
+								title='MySql'
+								width='90'
+							/>
+							<img
+								src='img/mysql.png'
+								className='mx-auto my-2 d-block'
+								alt='MySql'
+								title='MySql'
 								width='90'
 							/>
 						</div>

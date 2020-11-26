@@ -1,5 +1,7 @@
 import React from 'react';
 import Card from '../components/Card';
+import { BsChevronDoubleUp } from 'react-icons/bs';
+
 
 import { data } from '../components/Data';
 const Projects = () => {
@@ -14,6 +16,9 @@ const Projects = () => {
 					return <Card project={project} key={index} />;
 				})}
       </div>
+			<div className='d-flex justify-content-end'>
+				<a href='#home' className='text-white border btn btn-secondary rounded-pill'>Top<BsChevronDoubleUp /></a>
+			</div>
 		</div>
 	);
 };

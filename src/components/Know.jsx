@@ -4,7 +4,7 @@ const Know = () => {
 	return (
 		<div>
 			<center>
-				<h4 className='font-weight-bolder text-info '>
+				<h4 className='font-weight-bolder text-warning '>
 					Stack I Can Deal With
 				</h4>
 			</center>
@@ -18,8 +18,8 @@ const Know = () => {
 					/>
 					<div className='media-body'>
 						<h5 className='mt-2 mb-1 text-warning'>Frontend</h5>
-						<p className='text-white font-weight-bolder text-info'>
-							I can build the frontend using HTMl, CSS, Bootstrap,
+						<p className='text-white font-weight-bolder'>
+							I can build the frontend using HTML, CSS, Bootstrap,
 							Javascript, React & Redux.
 						</p>
 					</div>
@@ -35,7 +35,7 @@ const Know = () => {
 						<h5 className='mt-2 mb-1 text-warning'>
 							Data Structures - Basics
 						</h5>
-						<p className='text-info font-weight-bolder'>
+						<p className='text-white font-weight-bolder'>
 							I know the basics data Structures and Algorithm
 						</p>
 					</div>

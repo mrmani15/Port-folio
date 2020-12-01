@@ -8,9 +8,7 @@ const MyDetail = () => {
 			</center>
 			<h5 className='bg-dark rounded-pill p-5 mt-4 text-white'>
 				A passionate aspiring{' '}
-				<b className='text-warning'>MERN Stack Developer. </b>Actively ready
-				to join in a great lively team of a good start-up to adapt me in
-				any situation and environment with ease and perform the best.
+				<b className='text-warning'>MERN Stack Developer. </b>Actively ready to join a great lively team of a good start-up to adapt me to any situation and the environment with ease and perform the best.
 			</h5>
 		</div>
 	);

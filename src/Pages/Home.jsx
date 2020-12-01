@@ -15,7 +15,7 @@ const Home = () => {
       <h5 className='text-white'> <span><AiOutlineMobile /></span> +91 8340283358</h5>                     
       <a
         className='btn btn-warning btn-lg mt-4 font-weight-bolder'
-        href="/img/Manish Resume.pdf"
+        href="/img/Manish MERN.pdf"
         target='_blank'
       >
         RESUME

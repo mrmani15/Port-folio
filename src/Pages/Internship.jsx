@@ -19,15 +19,16 @@ const Internship = () => {
 						</a>
 					</b>{' '}
 					as a full-Stack Web Developer since October 2020. Here I am Responsible for
-					Updating and optimizing Frontend code, recreating dashboard,
-					and shifting complete project on AWS.
+					Updating and optimizing Frontend code, recreating dashboard in MERN stack.
 				</h4>
 			</div>
 			<div className='rounded-pill p-4 bg-dark mt-4 text-center'>
 				<h2 className='intern text-warning'>Internship</h2>
 				<h4>
-					I have my One-month intership at quillhash technology. where
-					i work on product{' '}
+					I have a one-month internship at <b><a
+							href='https://www.quillhash.com/'
+							className='text-warning'
+						>Quillhash Technology</a></b>. where I work on product {' '}
 					<b>
 						<a
 							href='https://zeptagram.com/'
@@ -36,7 +37,7 @@ const Internship = () => {
 							zeptagram.com
 						</a>{' '}
 					</b>
-					as <b>React Developer</b> role.
+					as a <b>React Developer</b> role.
 				</h4>
 				<a
 					className='btn btn-info btn-lg mt-4 font-weight-bolder'

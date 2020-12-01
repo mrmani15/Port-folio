@@ -3,7 +3,7 @@ export const data = [
     image: '/img/dashboards.png',
     alt: 'RailRecipe Dashboard',
     name: 'RailRecipe Dashboard',
-    desc: 'This is the Dashboard of RailRecipe Project. I am developing this is node.js.',
+    desc: 'This is the Dashboard of the RailRecipe Project. I am developing this in node.js..',
     icon: [
       {
         link: 'img/next.png',
@@ -36,7 +36,7 @@ export const data = [
     image: '/img/railrecipe.png',
     alt: 'Live RailRecipe Project',
     name: 'RailRecipe',
-    desc: 'This is the Frontend Part of RailRecipe Project. I am Updating and optimizing this codebase.',
+    desc: 'This is the Frontend Part of the RailRecipe Project. I am Updating and optimizing this codebase.',
     icon: [
       {
         link: 'img/next.png',
@@ -143,7 +143,7 @@ export const data = [
     image: '/img/atithi.png',
     alt: 'Project Atithi',
     name: 'Atithi',
-    desc: 'A Visitor Management system which can be used for managing visitor. This project is made up of collaboration.',
+    desc: 'A Visitor Management system which can be used for managing visitors. This project is made up of collaboration.',
     icon: [{
       link: 'https://i.ibb.co/JRb4CPf/html.png',
       alt: 'HTML',
@@ -187,7 +187,7 @@ export const data = [
     image: '/img/microfinance.png',
     alt: 'Microfinance Project',
     name: 'Microfinance',
-    desc: 'This is a FinTech project which is made during HACKATHON, where user invests and get profit.',
+    desc: 'This is a fintech project which is made during HACKATHON, where user invests and get profit.',
     icon: [{
       link: 'https://i.ibb.co/JRb4CPf/html.png',
       alt: 'HTML',

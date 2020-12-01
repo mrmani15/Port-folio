@@ -39,8 +39,8 @@ const FamiliarTech = () => {
 							<img
 								src='img/next.png'
 								className='mx-auto my-2 d-block'
-								alt='MySql'
-								title='MySql'
+								alt='NEXT.JS'
+								title='NEXT.JS'
 								width='90'
 							/>
 							<img

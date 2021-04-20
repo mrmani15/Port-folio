@@ -10,7 +10,7 @@ const Home = () => {
       <img src='/img.png' alt='Manish Pic' className='myImg card-hover' />
       <h3 className='mt-4 text-white'>Hi, I'm</h3>
       <h1 className='text-warning'>MANISH RAHUL</h1>
-      <h3 className='text-white'>( Frontend Developer )</h3>
+      <h3 className='text-white'>(MERN Stack Developer )</h3>
       <h5 className='text-white'> <span><CgMail /></span>  memanishrahul@gmail.com</h5>      
       <h5 className='text-white'> <span><AiOutlineMobile /></span> +91 8340283358</h5>                     
       <a

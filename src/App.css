@@ -57,6 +57,10 @@
   text-decoration: underline;
   /* padding-bottom: 30px; */
 }
+.details{
+  font-size: 18px;
+  letter-spacing: 1px;
+}
 #aboutme{
   background-color:#2e2d2c;
   height: 100%;

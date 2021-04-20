@@ -2,13 +2,13 @@ import React from 'react';
 
 const Know = () => {
 	return (
-		<div>
+		<div className='w-100 p-3'>
 			<center>
 				<h4 className='font-weight-bolder text-warning '>
-					Stack I Can Deal With
+					I Can Deal With
 				</h4>
 			</center>
-			<div className='bg-dark rounded-pill p-3 mt-4 d-flex'>
+			<div className='bg-dark rounded-pill p-4 mt-4 d-flex justify-content-around'>
 				<div className='text-center'>
 					<img
 						src='https://i.ibb.co/C76nVhV/frontend.png'
@@ -24,11 +24,29 @@ const Know = () => {
 						</p>
 					</div>
 				</div>
-				<div className='col-lg-6 col-md-6 col-sm-12 text-center'>
+
+				<div className='text-center'>
 					<img
 						src='https://i.ibb.co/J28nH1g/datastructure.png'
 						className='d-flex img-fluid mx-auto'
 						alt='Data Structures'
+						width='70'
+					/>
+					<div className='media-body'>
+						<h5 className='mb-1 text-warning'>
+							Backend
+						</h5>
+						<p className='text-white font-weight-bolder'>
+							I can build Backend with the help of Node.js, MongoDB & MYSQL.
+						</p>
+					</div>
+				</div>
+
+				<div className='text-center'>
+					<img
+						src='img/backend.png'
+						className='d-flex img-fluid mx-auto'
+						alt='Backend'
 						width='70'
 					/>
 					<div className='media-body'>

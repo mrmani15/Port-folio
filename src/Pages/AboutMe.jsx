@@ -1,7 +1,6 @@
 import React from 'react';
 import MyDetail from '../components/MyDetail';
 import Know from '../components/Know';
-import Familiar from '../components/Familiar';
 import Social from '../components/Social';
 
 const AboutMe = () => {
@@ -15,16 +14,11 @@ const AboutMe = () => {
 					<MyDetail />
 				</div>
 				<div className='col-xl-6 col-sm-12'>
-					<Know />
-				</div>
+					<Social />
+				</div>				
 			</div>
 			<div className='row mt-4'>
-				<div className='col-xl-6 col-sm-12'>
-					<Familiar />
-				</div>
-				<div className='col-xl-6 col-sm-12'>
-					<Social />
-				</div>
+					<Know />		
 			</div>
 		</div>
 	);

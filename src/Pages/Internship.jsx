@@ -19,7 +19,7 @@ const Internship = () => {
 						</a>
 					</b>{' '}
 					as a full-Stack Web Developer since October 2020. Here I am Responsible for
-					Updating and optimizing Frontend code, recreating dashboard in MERN stack.
+					Updating and optimizing Frontend code, recreating and deploying dashboard in NodeJS.
 				</h4>
 			</div>
 			<div className='rounded-pill p-4 bg-dark mt-4 text-center'>

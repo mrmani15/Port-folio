@@ -28,7 +28,10 @@
   padding-top: 90px;
 }
 .myImg {
-  height: 180px;
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  border : 10px solid #2e2d2c;
 }
 .social-icon{
   height: 40px;

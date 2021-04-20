@@ -8,7 +8,7 @@ const Know = () => {
 					I Can Deal With
 				</h4>
 			</center>
-			<div className='bg-dark rounded-pill p-4 mt-4 d-flex justify-content-around'>
+			<div className='bg-dark rounded-pill p-4 mt-4 d-flex flex-wrap justify-content-around'>
 				<div className='text-center'>
 					<img
 						src='https://i.ibb.co/C76nVhV/frontend.png'
